@@ -1,10 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# ___
-# 
-# <a href='http://www.pieriandata.com'> <img src='../Pierian_Data_Logo.png' /></a>
-# ___
 # # Linear Regression Project
 # 
 # Congratulations! You just got some contract work with an Ecommerce company based in New York City that sells clothing online but they also have in-store style and clothing advice sessions. Customers come in to the store, have sessions/meetings with a personal stylist, then they can go home and order either on a mobile app or website for the clothes they want.
@@ -278,14 +272,4 @@ coeffecients.columns = ['Coeffecient']
 coeffecients
 
 
-# ** How can you interpret these coefficients? **
 
-# *Answer here*
-
-# **Do you think the company should focus more on their mobile app or on their website?**
-
-# *Answer here*
-
-# ## Great Job!
-# 
-# Congrats on your contract work! The company loved the insights! Let's move on.
